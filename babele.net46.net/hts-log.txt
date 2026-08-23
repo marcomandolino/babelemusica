@@ -1,0 +1,28 @@
+HTTrack3.44-3+htsswf+htsjava launched on Sat, 24 Nov 2012 23:03:58 at http:www.babele.org +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "it, en, *" http:www.babele.org -O1 "C:\Users\Marco\Pictures\SITI\babele.org nov 2012\public_html\babele.org" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+00:09:48	Error: 	"Not Found" (404) at link http:www.babele.org/compendiostrumenti/La%20Ghironda_file/editdata.mso (from http:www.babele.org/compendiostrumenti/La%20Ghironda.htm)
+
+00:09:48	Error: 	"Not Found" (404) at link http:www.babele.org/compendiostrumenti/bodhran_file/editdata.mso (from http:www.babele.org/compendiostrumenti/bodhran.htm)
+
+00:09:48	Error: 	"Not Found" (404) at link http:www.babele.org/compendiostrumenti/UILLEAN%20PIPES_file/editdata.mso (from http:www.babele.org/compendiostrumenti/UILLEAN%20PIPES.htm)
+
+
+
+HTTrack Website Copier/3.44-3 mirror complete in 1 hours 5 minutes 50 seconds : 169 links scanned, 165 files written (96637769 bytes overall) [96692876 bytes received at 24479 bytes/sec]
+
+(3 errors, 0 warnings, 0 messages)
+
